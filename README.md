@@ -1,0 +1,1 @@
+# ftr-monopoly-go-konstenloswurfel
